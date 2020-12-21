@@ -1,9 +1,156 @@
 baseurl = "/"
-languageCode = "en-us"
+languageCode = "en-ca"
 languageLang = "en"
-title = "My new Victor-Hugo site"
+title = "Raymond Ros"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
 # https://gohugo.io/getting-started/configuration/#toml-configuration
-disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+# disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+
+# minimo
+copyright = ""
+
+theme = "minimo"
+
+disqusShortname = ""
+googleAnalytics = ""
+
+Paginate = 5
+preserveTaxonomyNames = true
+
+enableRobotsTXT = true # generate robots.txt
+
+# Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ )
+pygmentsCodefences = true
+# pygmentsStyle = "friendly"
+
+enableEmoji = true
+
+# Missing translations will default to this content language
+defaultContentLanguage = "en"
+
+[params.info]
+# description = "Raymond's Homepage"
+title404 = "Nothing's here!"
+
+[params.assets]
+customCSS = ["css/custom.css"]
+customJS = ["js/custom.js"]
+gopher = "assets/c1898bf1f477dbbb4133ef6e06cec86aa019d096.png" # used in 404 template ( Generator: https://gopherize.me )
+
+[params.copyright]
+prefix = ""
+holder = "Raymond Ros"
+startYear = "2020"
+suffix = ""
+
+[params.settings]
+# date & time format: https://golang.org/pkg/time/
+dateFormat = "2006, Jan 02"
+listDateFormat = "2006, Jan 02"
+archiveDateFormat = "Jan 02"
+hideEntryNavigation = ["page"] # boolean / array of sections
+hideEntryMeta = ["page"] # boolean / array of sections
+showReadingTime = true
+showLastmod = true
+taxonomyCloudShuffle = true
+accentColor = "#1f75fe"
+hideMainMenu = false
+
+[params.sidebar]
+enable = false
+
+[params.widgets]
+# header = ["breadcrumbs"]
+homepage = []
+# sidebar = ["about","search","sidebar_menu","taxonomy_cloud"]
+sidebar = ["about","sidebar_menu"]
+footer = ["social_menu"]
+
+[params.opengraph.facebook]
+admins = [] # array of Facebook IDs
+appID = ""
+pageID = ""
+
+[params.opengraph.twitter]
+page = "" # Twitter page username
+
+[params.seo]
+# Title Separator: - – — · • * ⋆ | ~ « » < >
+titleSeparator = "•"
+
+[params.social]
+# codepen = ""
+email = "raymond.ros@gmail.com"
+facebook = "raymond.ros"
+github = "cooltea713705"
+# gitlab = "cooltea713705"
+instagram = "cooltea713705"
+linkedin = "raymond-ros"
+twitter = "raymond_ros"
+# telegram = ""
+# google_scholar = "Djyz9hUAAAAJ"
+youtube = "UCvE_SSUNuWopmTEtKyl2evg"
+stackoverflow="618156"
+
+[params.comments]
+enable = false
+
+# Isso: https://posativ.org/isso/
+[params.comments.isso]
+enable = false
+scriptSrc = "" # "https://isso.example.com/js/embed.min.js"
+dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
+
+[params.comments.staticman]
+enable = false
+apiEndpoint = "https://api.staticman.net/v2/entry"
+maxDepth = 2
+username = ""
+repository = ""
+
+# Utterances: https://utteranc.es
+[params.comments.utterances]
+enable = false
+issueTerm = "pathname" # pathname / url / title / og:title / <string>
+label = ""
+theme = "github-light"
+
+[params.comments.utterances.github]
+username = ""
+repository = ""
+
+[params.search]
+client = "fuse" # algolia / fuse / lunr
+
+[params.search.algolia]
+appId = ""
+indexName = ""
+searchApiKey = ""
+
+[taxonomies]
+author = "authors"
+category = "categories"
+series = "series"
+tag = "tags"
+
+[permalinks]
+page = "/:slug/"
+
+[[menu.main]]
+# identifier = "posts"
+# name = "Posts"
+# title = "posts section"
+# url = "/posts/"
+# weight = -10
+
+[blackfriday]
+hrefTargetBlank = true
+
+[languages]
+# edit this block for your own language
+[languages.en]
+lang = "en"
+languageName = "English"
+weight = 1
