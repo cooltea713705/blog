@@ -1,6 +1,6 @@
 # About Widget config
 [about]
-title = "Ray"                    # default: .Site.Title
+title = " "                    # default: .Site.Title
 description = "Coding, Games, Life"                      # default: .Site.Params.info.description
 logo = "/assets/12592313_10153786298690482_2190213299138209990_n.jpg" # default: "/images/logo.png"
 

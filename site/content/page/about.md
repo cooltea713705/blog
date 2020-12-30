@@ -1,6 +1,8 @@
 ---
 weight: 0
-title: About
+title: About this Website
+linktitle: About
+# https://gohugo.io/templates/menu-templates/#menu-entries-from-the-pages-front-matter
 date: 2020-12-21T13:46:00-05:00
 menu: main
 # cover:
@@ -8,18 +10,10 @@ menu: main
 #   alternate: Portrait generated with https://www.zanorg.net/bouletmaton/
 #   style: normal
 ---
-Scientist at heart, I have been working as a software developer for 11 years. 
 
-My ambition: save the world, though I have yet to know how. It is in my nature to provide all the help I can to people around me.
-
-I was trained in fundamental sciences, got a PhD in computer science before moving on to the industry. I specialize in Java and backend development.
-
-I am into playing and learning to pla ygames (video, board), reading mangas.
-
-Favorite kinds of humor: dark, puns, dad jokes.
-
-### Resources
  * Set up using [Netlify / Hugo](https://gohugo.io/hosting-and-deployment/hosting-on-netlify/)
  * Theme: [Minimo](https://github.com/MunifTanjim/minimo)
  * Portrait: [Bouletmaton](https://www.zanorg.net/bouletmaton/)
  * Favicon: [favicon.io's generator](https://favicon.io/favicon-generator/)
+
+[To read about me](/)
