@@ -13,7 +13,7 @@ copyright = ""
 
 theme = "minimo"
 
-disqusShortname = "https-raymondros-dev"
+disqusShortname = ""
 googleAnalytics = ""
 
 Paginate = 5
@@ -95,7 +95,7 @@ youtube = "UCvE_SSUNuWopmTEtKyl2evg"
 stackoverflow="raymond_ros"
 
 [params.comments]
-enable = true
+enable = false
 
 # Isso: https://posativ.org/isso/
 [params.comments.isso]
