@@ -2,7 +2,12 @@
 title: Home
 menu: main
 weight: -270
-date: 2020-12-22T14:11:00-05:00
+date: 2020-12-30T20:41:00-05:00
+lastMod: 2020-12-30T20:43:00-05:00
+cover:
+  image: /assets/12592313_10153786298690482_2190213299138209990_n.jpg
+  alternate: Portrait generated with https://www.zanorg.net/bouletmaton/
+  style: normal
 ---
 
 Scientist at heart, I have been working as a software developer for 11 years. 
