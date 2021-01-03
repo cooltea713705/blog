@@ -10,7 +10,7 @@ cover:
   style: normal
 ---
 
-Scientist at heart, I have been working as a software developer for 11 years. 
+Scientist at heart, I have been working as a software developer since 2011. 
 
 My ambition: save the world, though I have yet to know how. It is in my nature to provide all the help I can to people around me.
 
