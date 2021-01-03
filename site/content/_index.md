@@ -16,9 +16,6 @@ My ambition: save the world, though I have yet to know how. It is in my nature t
 
 I was trained in fundamental sciences, got a PhD in computer science before moving on to the industry. I specialize in Java and backend development.
 
-I am into playing and learning to pla ygames (video, board), reading mangas.
+I am into playing and learning to play games (video, board), reading mangas.
 
 Favorite kinds of humor: dark, puns, dad jokes.
-
-*Example:*
-{{< tweet 399339918213652480 >}}
