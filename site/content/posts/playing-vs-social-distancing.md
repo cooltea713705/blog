@@ -5,7 +5,7 @@ date: 2020-12-30T09:36:23-05:00
 categories:
  - games
 tags:
- - games
+ - online games
 ---
 
 As many others have done as well, I have actively been looking games to play with the family, friends, colleagues, everyone...
