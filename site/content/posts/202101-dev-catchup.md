@@ -15,10 +15,15 @@ After searching for resources for a bit...
 
 # What did I find?
 
- The greats are everywhere:
+## The greats are everywhere:
   * [@Vlad_Mihalcea](https://twitter.com/vlad_mihalcea) answers on Stack Overflow [all the time](https://stackoverflow.com/users/1025118/vlad-mihalcea?tab=answers),
   * [Thorben Janssen](https://thorben-janssen.com) and [Baeldung.com](https://www.baeldung.com) (which I realize now is an army of writers) pop up every so often when googling about JPA or Spring,
   * [Trisha Gee](https://trishagee.com) single-handedly writes the [Java Annotated Monthly](https://blog.jetbrains.com/idea/tag/java-annotated/) ([+ YouTube playlist for the TL;DR version](https://www.youtube.com/playlist?list=PLPZy-hmwOdEWuQYQQ_K383qRKmnM16xO0)) which is a great entry point to keep up with Java news.
+
+## I an not the only one trying to find my place
+
+I think this article is particularly inspiring: https://neha-nsit.medium.com/how-joining-java-community-shaped-my-year-so-far-5c247388e851 
+Thank you [@Neha Sardana](https://twitter.com/nehasardana09) for showing the way.
 
 # How do I start?
 
