@@ -1,7 +1,6 @@
 ---
 title: "Playing Catch-up with the Developer Community"
 date: 2021-01-11T16:11:00-05:00
-draft: true
 ---
 
 I have to admit that after all this time of developing in Java for different industries/companies, it is a sore realization that my connection to the community of developers is rather non-existing: a couple of [Stack Overflow answers](https://stackoverflow.com/users/618156/cooltea?tab=answers), a [Github account](https://github.com/cooltea713705?tab=repositories) for interview homeworks, attendances to one or two conferences ([Devoxx France](https://www.devoxx.fr) / [Agile Tour Montréal](https://www.agiletourmontreal.com)).
