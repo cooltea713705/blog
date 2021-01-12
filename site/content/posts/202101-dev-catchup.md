@@ -41,13 +41,15 @@ I am now following a bunch of Twitter handles + blogs (the latter using [Feedly.
    * https://nipafx.dev
    * https://twitter.com/javinpaul
    * https://twitter.com/catalinmpit
+   * https://jvns.ca
+   * https://martinfowler.com
 
  ## I need to participate to conferences
 I registered to the [jChampion](https://jchampionsconf.com) and [DawsCon](https://www.dawsoncollege.qc.ca/dawscon/) conferences which, I am sure, will be great sources of topics.
 
 # How do I keep going?
 
-That's the big question. While I am unemployed and have the 'time' (keeping my 4 year-old daughter entertained is a handful though) then I can make it work but what about after that?
+That's the big question. While I am unemployed and have the 'time' (parenting is a handful though) then I can make it work but what after that?
  
  {{<tweet 1347603943065595905>}}
  
