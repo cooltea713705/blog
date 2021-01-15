@@ -5,7 +5,8 @@ categories:
  - dev
 tags:
  - conferences
- - sessions
+ - webinars
+ - java
 # https://www.markdownguide.org/extended-syntax/#definition-lists
 ---
 
