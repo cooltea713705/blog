@@ -1,6 +1,6 @@
 ---
-title: "202101 Confs a Gogo Part4"
-date: 2021-01-19T1:33:02-05:00
+title: "January 2021 - Conferences A Gogo - Part 4"
+date: 2021-01-19T17:00:00-05:00
 # draft: true
 categories:
  - dev
