@@ -53,9 +53,16 @@ I registered to the [jChampion](https://jchampionsconf.com) and [DawsCon](https:
 
 That's the big question. While I am unemployed and have the 'time' (parenting is a handful though) then I can make it work but what after that?
  
- {{<tweet 1347603943065595905>}}
+[comment]: <> (tweet 1347603943065595905)
+[comment]: <> (The initial tweet was removed...)
  
- 'Making time for things if they are important for you' is a bit overwhelming at the moment though. Here are some of the priorities that I see myself setting:
+> Something changed when I learnt the difference between "not having time" and "making time for something".
+>
+> You make time for things if they are important to you.
+>
+>— Catalin Pit (@catalinmpit) January 8, 2021
+
+'Making time for things if they are important for you' is a bit overwhelming at the moment though. Here are some of the priorities that I see myself setting:
 
  * I hope to keep *interacting* with people.
  * I need to *pace myself* for the long run.
