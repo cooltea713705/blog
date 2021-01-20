@@ -1,6 +1,6 @@
 ---
 weight: 0
-title: About Me
+title: About me
 linktitle: About
 # https://gohugo.io/templates/menu-templates/#menu-entries-from-the-pages-front-matter
 date: 2020-12-30T20:43:00-05:00
