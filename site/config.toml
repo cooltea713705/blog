@@ -1,7 +1,7 @@
 baseurl = "https://raymondros.dev/"
 languageCode = "en-ca"
 languageLang = "en"
-title = ""
+title = "Raymond Ros"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
@@ -31,7 +31,7 @@ enableEmoji = true
 defaultContentLanguage = "en"
 
 [params.info]
-# description = "Raymond's Homepage"
+description = "Coding, Games, Life"
 title404 = "Nothing's here!"
 
 [params.assets]
@@ -66,7 +66,6 @@ enable = true
 homepage = ["recent_posts"]
 # sidebar = ["about","search","sidebar_menu","taxonomy_cloud"]
 sidebar = ["about","taxonomy_cloud"]
-# ,"recent_posts"]
 footer = ["social_menu"]
 
 [params.opengraph.facebook]

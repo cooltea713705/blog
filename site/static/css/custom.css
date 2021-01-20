@@ -1,1 +1,20 @@
 /* Custom CSS */
+.home .site-header .container .header-info .site-title, .site-desc {
+  display: flex;
+}
+.home .site-header .container .header-info .alt-title {
+  display: none;
+}
+
+@media screen and (min-width:920px) {
+  .home .site-header .container .header-info {
+    margin-top: 0.5em;
+  }
+
+  .home .site-header .container .header-info .site-title, .site-desc {
+    display: none;
+  }
+  .home .site-header .container .header-info .alt-title {
+    display: flex;
+  }
+}
