@@ -1,0 +1,3 @@
+{{ $svg := .Get 0 }}
+{{ $icon := print "svg/" $svg ".svg" | resources.Get }}
+{{ $icon.Content | replaceRE "(?s)^(.*)(viewBox|viewbox)(.*)$" "$1 class='icon' viewBox$3" | safeHTML }}

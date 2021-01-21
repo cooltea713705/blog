@@ -1,20 +1,35 @@
 /* Custom CSS */
-.home .site-header .container .header-info .site-title, .site-desc {
-  display: flex;
+
+/* 'Desktop' */
+.home .site-header .container .header-info {
+  margin-top: 0.5em;
 }
-.home .site-header .container .header-info .alt-title {
+
+.home .site-header .container .header-info .site-title, .site-desc {
   display: none;
 }
+.home .site-header .container .header-info .alt-title {
+  display: flex;
+}
 
-@media screen and (min-width:920px) {
-  .home .site-header .container .header-info {
-    margin-top: 0.5em;
-  }
+.icon {
+  stroke-linecap: 'round';
+  stroke-linejoin: 'round';
+  stroke-width: 2;
+}
 
+/* 'Mobile' */
+@media screen and (max-width:920px) {
   .home .site-header .container .header-info .site-title, .site-desc {
-    display: none;
+    display: flex;
   }
   .home .site-header .container .header-info .alt-title {
-    display: flex;
+    display: none;
+  }
+
+  .widget-social_menu .icon {
+    height: 48px;
+    width: 48px;
+    stroke-width: 1.25px;
   }
 }

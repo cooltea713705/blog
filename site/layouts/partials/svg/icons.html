@@ -1,0 +1,2 @@
+{{ $icon := print "svg/" . ".svg" | resources.Get }}
+{{ $icon.Content | replaceRE "(?s)^(.*)(viewBox|viewbox)(.*)$" "$1 aria-hidden='true' class='icon' viewBox$3" | safeHTML }}
