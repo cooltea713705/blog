@@ -131,7 +131,7 @@ indexName = ""
 searchApiKey = ""
 
 [taxonomies]
-author = "authors"
+# author = "authors"
 category = "categories"
 series = "series"
 tag = "tags"
