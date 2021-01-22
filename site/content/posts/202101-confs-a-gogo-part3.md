@@ -8,6 +8,8 @@ tags:
  - conferences
  - webinars
  - java
+series:
+ - January 2021 Java Conferences
 ---
 
 This is the third entry to the [series for the January 2021 online conferences](/posts/202101-confs-a-gogo-part1/) which I have attended.

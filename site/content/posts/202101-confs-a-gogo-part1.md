@@ -7,6 +7,8 @@ tags:
  - conferences
  - webinars
  - java
+series:
+ - January 2021 Java Conferences
 # https://www.markdownguide.org/extended-syntax/#definition-lists
 ---
 
