@@ -1,5 +1,5 @@
 ---
-title: "January 2021 - Conferences A Gogo - Part 2"
+title: "January 2021 - Conferences A Gogo - Part 3"
 date: 2021-01-18T15:17:30-05:00
 # draft: true
 categories:
@@ -20,7 +20,7 @@ Back to jChampions!
 : Fun code puzzles presenting features per JDK version. The sources are available at https://github.com/rafadelnero/startrek-javachallengers
 
 [Nikhil Nanivadekar - Getting Started with Kafka](https://youtu.be/zbuAu3ap-ik )
-: Hands-on of [Kafka](https://kafka.apache.org)
+: Hands-on demonstration of [Apache Kafka](https://kafka.apache.org) (stream-processing platform). I liked (but would not dare sport) Nikhil's style of presenting (no slide, everything typed in a text file in the IDE!).
 
 [Mohamed Taman - Do you use the Optional class as it should be?](https://youtu.be/5kdBZsB563A)
 : Best practices for the `Optional` API. I caught on an error in [Code Recipe #10](https://youtu.be/5kdBZsB563A?t=1753) where [`Optional#orElseGet(...)` is not expected to return `Optional.<String>of(...)`](https://docs.oracle.com/en/java/javase/15/docs/api/java.base/java/util/Optional.html#orElseGet(java.util.function.Supplier)), the use of `Optional.or` is correct though.
