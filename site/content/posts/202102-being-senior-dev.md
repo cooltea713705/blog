@@ -1,6 +1,6 @@
 ---
 title: "Being a Senior Software Developer"
-date: 2021-01-23T16:05:24-05:00
+date: 2021-02-06T17:00:00-05:00
 cover:
   image: /assets/tweet-1355567142456995840.png
   # https://stackoverflow.com/a/33149072/618156
