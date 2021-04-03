@@ -1,6 +1,6 @@
 ---
 title: "Notes on Oracle's Java SE: Programming Complete"
-date: 2021-04-03T15:00:00-05:00
+date: 2021-04-03T15:00:00-04:00
 toc: true
 categories:
  - dev
