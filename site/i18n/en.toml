@@ -2,7 +2,7 @@
 other = "Error occurred. Couldn't submit your comment. Please try again. Thank You!"
 
 [twitterfeedback]
-other = "Found this interesting? Have a comment or a question? Reach out to me on <a href='https://twitter.com/{{- .twitterhandle -}}' target='_blank' rel='noopener me'>Twitter!</a>"
+other = "Found this interesting? Have a comment or a question? Reach out to me on <a href='https://twitter.com/{{- .twitterhandle -}}' target='_blank' rel='noopener me'><b>Twitter!</b></a>"
 
 [twitterfeedback-tweet]
-other = "Found this interesting? Have a comment or a question? <a href='https://twitter.com/{{- .twitterhandle -}}/status/{{- .twitterfeedback -}}' target='_blank' rel='noopener me'>Tweet a reply!</a>"
+other = "Found this interesting? Have a comment or a question? <a href='https://twitter.com/{{- .twitterhandle -}}/status/{{- .twitterfeedback -}}' target='_blank' rel='noopener me'><b>Tweet a reply!</b></a>"

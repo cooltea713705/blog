@@ -1,5 +1,5 @@
 [twitterfeedback]
-other = "Un commentaire ou une question ? Contactez moi sur <a href='https://twitter.com/{{- .twitterhandle -}}' target='_blank' rel='noopener me'>Twitter !</a>"
+other = "Un commentaire ou une question ? Contactez moi sur <a href='https://twitter.com/{{- .twitterhandle -}}' target='_blank' rel='noopener me'><b>Twitter !</b></a>"
 
 [twitterfeedback-tweet]
-other = "Un commentaire ou une question ? <a href='https://twitter.com/{{- .twitterhandle -}}/status/{{- .twitterfeedback -}}' target='_blank' rel='noopener me'>Répondez-moi sur Twitter !</a>"
+other = "Un commentaire ou une question ? <a href='https://twitter.com/{{- .twitterhandle -}}/status/{{- .twitterfeedback -}}' target='_blank' rel='noopener me'><b>Répondez-moi sur Twitter !</b></a>"
