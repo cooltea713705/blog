@@ -9,6 +9,7 @@ tags:
  - java
  - Oracle
  - certification
+twitterfeedback: 1380616619962023950
 ---
 
 I earned the title of [Oracle Certified Professional: Java SE 11 Developer](https://education.oracle.com/java-se-11-developer/pexam_1Z0-819) yesterday! Allow me to present how I got there.

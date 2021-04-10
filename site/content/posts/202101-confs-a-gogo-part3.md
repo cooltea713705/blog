@@ -10,6 +10,7 @@ tags:
  - java
 series:
  - January 2021 Java Conferences
+twitterfeedback: 1352773015214432259
 ---
 
 This is the third entry to the [series for the January 2021 online conferences](/posts/202101-confs-a-gogo-part1/) which I have attended.

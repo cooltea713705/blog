@@ -10,6 +10,7 @@ tags:
 series:
  - January 2021 Java Conferences
 # https://www.markdownguide.org/extended-syntax/#definition-lists
+twitterfeedback: 1352773015214432259
 ---
 
 There are Java developer events all the time, except when they decide to put them all together in a week. :persevere:

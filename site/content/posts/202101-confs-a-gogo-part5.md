@@ -10,6 +10,7 @@ tags:
  - java
 series:
  - January 2021 Java Conferences
+twitterfeedback: 1352773015214432259
 ---
 
 This is the final entry to the [series for the January 2021 online conferences](/posts/202101-confs-a-gogo-part1/) which I have attended online. Note that watching after the event occurred on YouTube allows setting playback speed 1.5[^1] or higher which is a cool hack!

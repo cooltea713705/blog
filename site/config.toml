@@ -96,7 +96,10 @@ youtube = "UCvE_SSUNuWopmTEtKyl2evg"
 stackoverflow="raymond_ros"
 
 [params.comments]
-enable = false
+enable = true
+
+[params.comments.twitterfeedback]
+enable = true
 
 # Isso: https://posativ.org/isso/
 [params.comments.isso]

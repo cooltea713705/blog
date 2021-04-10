@@ -13,7 +13,7 @@ categories:
  - dev
 tags:
  - senior
-draft: false
+twitterfeedback: 1357808471274622976
 ---
 
 Some, like [@denvercoder](https://twitter.com/denvercoder), have been in the industry for years and are yet to be one in name, others have had the title after a couple of years in the industry. It might be coveted or feared:
