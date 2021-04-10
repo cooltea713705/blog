@@ -2,4 +2,4 @@
 other = "Un commentaire ou une question ? Contactez moi sur <a href='https://twitter.com/{{- .twitterhandle -}}' target='_blank' rel='noopener me'>Twitter !</a>"
 
 [twitterfeedback-tweet]
-other = "Un commentaire ou une question ? <a href='https://twitter.com/{{- .twitterhandle -}}/status/{{- .twitterfeedback -}}' target='_blank' rel='noopener me'>Répondez moi sur Twitter !</a>"
+other = "Un commentaire ou une question ? <a href='https://twitter.com/{{- .twitterhandle -}}/status/{{- .twitterfeedback -}}' target='_blank' rel='noopener me'>Répondez-moi sur Twitter !</a>"
