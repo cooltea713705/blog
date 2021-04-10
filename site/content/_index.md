@@ -1,5 +1,5 @@
 ---
-title: Home
+linkTitle: Home
 menu: main
 weight: -270
 date: 2020-12-30T20:41:00-05:00

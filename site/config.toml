@@ -1,7 +1,8 @@
 baseurl = "https://raymondros.dev/"
 languageCode = "en-ca"
 languageLang = "en"
-title = "Raymond Ros"
+
+title = "Raymond's Blog"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
