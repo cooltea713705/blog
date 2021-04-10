@@ -4,6 +4,6 @@
     {{- if isset .Params "twitterfeedback" -}}
         {{- i18n "twitterfeedback-tweet" ( dict "twitterhandle" .Site.Params.social.twitter "twitterfeedback" .Params.twitterfeedback ) | safeHTML -}}
     {{- else  -}}
-        {{- i18n "twitterfeedback" "twitterhandle" .Site.Params.social.twitter | safeHTML -}}
+        {{- i18n "twitterfeedback" (dict "twitterhandle" .Site.Params.social.twitter ) | safeHTML -}}
     {{- end -}}
 </i>
