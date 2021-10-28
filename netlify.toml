@@ -1,5 +1,5 @@
 [build]
-publish = "public"
+publish = "dist"
 command = "hugo -s site -d ../dist --gc --minify"
 
 [context.production.environment]
