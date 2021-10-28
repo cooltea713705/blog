@@ -1,6 +1,6 @@
 # Repository of Raymond's Homepage
 
-The underlying [blog](https://raymondros.dev) was built using [Netlify / Hugo](https://gohugo.io/hosting-and-deployment/hosting-on-netlify/) and [Victor Hugo](https://github.com/netlify-templates/victor-hugo) from which this repository was cloned.
+The underlying [blog](https://raymondros.dev) was built using [Netlify / Hugo](https://gohugo.io/hosting-and-deployment/hosting-on-netlify/).
 
 The theme of the blog is [Minimo](https://minimo.netlify.app/docs/).
 

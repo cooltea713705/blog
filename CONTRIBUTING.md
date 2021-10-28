@@ -3,36 +3,6 @@
 Contributions are always welcome, no matter how large or small. Before contributing,
 please read the [code of conduct](CODE_OF_CONDUCT.md).
 
-## Setup
-
-```sh
-$ git clone https://github.com/netlify/victor-hugo
-$ cd victor-hugo
-$ npm install
-```
-
-## Building
-
-```sh
-$ npm run build
-```
-
-## Testing
-
-```sh
-$ npm run test
-```
-
-```sh
-$ npm run test:watch
-```
-
-## Running the server
-
-```sh
-$ npm run start
-```
-
 ## Pull Requests
 
 We actively welcome your pull requests.

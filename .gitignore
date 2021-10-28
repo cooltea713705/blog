@@ -1,6 +1,2 @@
-node_modules/
-dist/
-site/data/webpack.json
-site/public
+public
 .DS_Store
-.idea
