@@ -17,6 +17,8 @@ After searching for resources for a bit...
 
 > Don't google Java resources (I tried) if you want to keep up with what's new in Java but go there instead http://javais.cool (which really is missing updated profile pics and [@trisha_gee](https://twitter.com/trisha_gee)'s [Java Annotated Monthly](https://www.jetbrains.com/lp/jam/)) [#javadeveloper](https://twitter.com/hashtag/javadeveloper?src=hashtag_click)
 
+*UPDATE 2023, Dec 21*: javais.cool is no longer a thing.
+
 ... here is what I got!
 
 # What did I find?
@@ -63,7 +65,7 @@ That's the big question. While I am unemployed and have the 'time' (parenting is
 >
 >— Catalin Pit (@catalinmpit) January 8, 2021
 
-UPDATE: Original tweet was removed.
+*UPDATE 2021, Jan 19:* Original tweet was removed.
 
 'Making time for things if they are important for you' is a bit overwhelming at the moment though. Here are some of the priorities that I see myself setting:
 
