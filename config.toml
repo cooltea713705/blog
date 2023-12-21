@@ -141,11 +141,11 @@ tag = "tags"
 page = "/:slug/"
 
 [[menu.main]]
-identifier = "posts"
-name = "Posts"
-title = "Posts Section"
-url = "/posts/"
-weight = -10
+# identifier = "posts"
+# name = "Posts"
+# title = "Posts Section"
+# url = "/posts/"
+# weight = -10
 
 [blackfriday]
 hrefTargetBlank = true
