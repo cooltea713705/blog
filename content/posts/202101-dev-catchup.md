@@ -15,7 +15,7 @@ Still, I have been following a number of Twitter accounts (most often because of
 
 After searching for resources for a bit...
 
-{{<tweet 1346197934833078274>}}
+> Don't google Java resources (I tried) if you want to keep up with what's new in Java but go there instead http://javais.cool (which really is missing updated profile pics and [@trisha_gee](https://twitter.com/trisha_gee)'s [Java Annotated Monthly](https://www.jetbrains.com/lp/jam/)) [#javadeveloper](https://twitter.com/hashtag/javadeveloper?src=hashtag_click)
 
 ... here is what I got!
 
@@ -62,6 +62,8 @@ That's the big question. While I am unemployed and have the 'time' (parenting is
 > You make time for things if they are important to you.
 >
 >— Catalin Pit (@catalinmpit) January 8, 2021
+
+UPDATE: Original tweet was removed.
 
 'Making time for things if they are important for you' is a bit overwhelming at the moment though. Here are some of the priorities that I see myself setting:
 
